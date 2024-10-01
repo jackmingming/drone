@@ -23,9 +23,9 @@ Signal Transmission:
 Sensor Integration
  - Our project primarily focuses on integrating essential sensors to enhance the drone's operational capabilities. The integrated sensors include:
 
-GPS (Global Positioning System): Provides accurate positioning data for navigation.
-Rangefinder: Measures the distance to obstacles, aiding in obstacle avoidance.
-LiDAR (Light Detection and Ranging): Offers precise distance measurements and creates detailed 3D maps of the drone's surroundings.
+- GPS (Global Positioning System): Provides accurate positioning data for navigation.
+- Rangefinder: Measures the distance to obstacles, aiding in obstacle avoidance.
+- LiDAR (Light Detection and Ranging): Offers precise distance measurements and creates detailed 3D maps of the drone's surroundings.
 
 For detailed examples and implementation, refer to the pro_gcs/VTX_example directory.
 
