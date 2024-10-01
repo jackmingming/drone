@@ -1,0 +1,4 @@
+sudo chmod 777 /dev/ttyACM0
+/opt/betaflight/betaflight-configurator/betaflight-configurator
+
+mono MissionPlanner.exe

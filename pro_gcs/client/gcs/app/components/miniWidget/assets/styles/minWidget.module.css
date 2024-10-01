@@ -1,0 +1,19 @@
+.min-widget {
+    border: solid 2px rgba(0, 255, 127, 1);
+    padding: .5rem;
+    display: flex;
+}
+.min-widget svg {
+    color: rgba(0, 255, 127, 1)
+}
+
+.min-widget-status {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(0, 255, 127, 1);
+}
+
+.min-widget-status div {
+    display: flex;
+}

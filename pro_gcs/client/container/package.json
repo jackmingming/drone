@@ -1,0 +1,19 @@
+{
+  "name": "container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nodegui/nodegui": "^0.66.0",
+    "@nodegui/qode": "^18.12.1",
+    "node-fetch": "^3.3.2",
+    "qode": "^0.1.0"
+  }
+}
