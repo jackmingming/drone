@@ -65,9 +65,11 @@ Run the Client
 npm install
 
 Dev / build:
-    `npm run dev` // electron app
-    `npm run dev-web` // react web only
-    `npm run build`   // build web and electron app
+```
+    - `npm run dev` // electron app
+    - `npm run dev-web` // react web only
+    - `npm run build`   // build web and electron app
+```
 
 Server:
 Run the Server
