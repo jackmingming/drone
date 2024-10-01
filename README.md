@@ -1,8 +1,8 @@
-Drone Project
+Drone Project (GCS)
 
 Overview
 
-Drone is an advanced project focused on developing a Ground Control Station (GCS), which serves as a critical component for drone operations. The GCS facilitates seamless communication between the drone and the operator, handling video streaming, control signal transmission, and sensor integration to ensure efficient and reliable drone performance.
+A Ground Control Station (GCS), which serves as a critical component for drone operations. The GCS facilitates seamless communication between the drone and the operator, handling video streaming, control signal transmission, and sensor integration to ensure efficient and reliable drone performance.
 
 Client:
 
